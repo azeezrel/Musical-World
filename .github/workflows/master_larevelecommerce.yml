@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'LarevelEcommerce'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7EDD30065C9141B99840D42B93AF4FEC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B320BC8CCE5C4D07A53B8BE666A78B2C }}
           package: .
